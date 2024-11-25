@@ -1,0 +1,72 @@
+.lol{
+text-align: center ;
+font-size: xx-large;
+margin-top: -25px;
+margin-left: -10px;
+margin-right: -10px;
+}
+.lobster-regular {
+    font-family: "Lobster", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    color: rgb(96, 139, 193);
+    font-size: x-large;
+    margin-top: 20px;
+   
+  }
+  
+  .charm-bold {
+    font-family: "Charm", cursive;
+    font-weight: 700;
+    font-style: normal;
+    font-size: xx-large;
+    color: rgb(19, 62, 135);
+  }
+  .ari{
+  text-align: center;
+  margin-top: 100px;
+  }
+
+  .profile-pic{
+ border-radius: 100%; 
+ 
+    
+  }
+
+  .maaa{
+display: flex;
+justify-content: center;
+gap: 80px;
+
+  }
+  .card-title{
+color: rgb(19, 62, 135);
+font-weight: bolder;
+
+  }
+  .card-text{
+
+color: rgb(19, 62, 135) ;
+font-weight: bold;
+font-style: unset;
+
+  }
+  @media screen and (max-width: 800px) {
+    
+.maaa{
+    display: flex;
+   
+    flex-direction: column;
+    justify-content: center;
+   align-items: center;
+}}
+
+
+.kk{
+
+margin-top: 10px;
+padding-bottom: 5px;
+
+
+}
